@@ -24,3 +24,8 @@ import com.github.mituba.module._
 import com.github.mituba.entity._
 ```
 
+
+## dependencies
+
+- net.databinder.dispatch,dispatch-core_2.10,0.11.3
+- com.github.pochi,pochi-runner,1.0-SNAPSHOT
