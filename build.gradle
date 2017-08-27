@@ -18,7 +18,7 @@ repositories {
     mavenLocal()
 }
 
-group = "com.mituba.github"
+group = "com.github.mituba"
 version = "0.1"
 
 dependencies {
